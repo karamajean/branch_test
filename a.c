@@ -1,10 +1,7 @@
 #include <stdio.h>
 #include "a.h"
 
-int main(void)
+void a_print(void)
 {
-
     printf("Hello, branch a\n");
- 
-    return 0;
 }
