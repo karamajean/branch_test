@@ -1,4 +1,6 @@
-#include
+#include <stdio.h>
+#include "b.h"
+
 
 int main(void)
 {
